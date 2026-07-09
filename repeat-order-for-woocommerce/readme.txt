@@ -2,8 +2,8 @@
 Contributors: polyres, fstaude, uschoene, carfis
 Tags: woocommerce, order again
 Requires at least: 4.8
-Tested up to: 6.4.3
-Stable tag: 1.3.3
+Tested up to: 7.0
+Stable tag: 1.3.4
 License: GPLv2
 
 Just add an "order again" button in Recent Orders list
@@ -84,6 +84,10 @@ This action is called in the reorder notice for emails funnction
 5. Orderlist actions columns with "reorder" icon
 
 == Changelog ==
+
+= 1.3.4 =
+* [New] Support for WordPress 7.0
+* [New] Tested compatibility with current WooCommerce version
 
 = 1.3.3 =
 * [New] Support for WooCommerce 8.5.2

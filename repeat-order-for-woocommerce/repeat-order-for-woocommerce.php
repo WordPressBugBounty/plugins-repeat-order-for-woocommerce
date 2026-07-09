@@ -3,7 +3,7 @@
  * Plugin Name: Repeat Order for Woocommerce
  * Plugin URI: https://poly-res.com/plugins/repeat-order-for-woocommerce/
  * Description: Add an "order again" button in Recent Orders list
- * Version: 1.3.3
+ * Version: 1.3.4
  * Author: polyres
  * Author URI: https://poly-res.com/
  * Text Domain: repeat-order-for-woocommerce
